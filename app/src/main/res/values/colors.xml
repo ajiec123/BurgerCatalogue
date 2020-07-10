@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorbgButton">#099588</color>
+    <color name="colorWhite">#FFF</color>
+    <color name="colorGray">#4E484A</color>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <!--    gradient-->
+    <color name="startColor">#008577</color>
+    <color name="endColor">#A6CCC2</color>
+
+</resources>

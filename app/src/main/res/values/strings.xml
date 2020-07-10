@@ -1,0 +1,22 @@
+<resources>
+
+
+    <string name="tv_signUp">Set up your Account</string>
+    <string name="txtWelcome">Welcome!</string>
+
+
+    <string name="txtSignUp">Create a new account</string>
+    <string name="txtRegister">Register</string>
+    <string name="txtLogin">Login</string>
+
+    <string name="app_name">Burgers Catalogue</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="food_detail">Detail Makanan</string>
+    <string name="btn_details">Selengkapnya ...</string>
+    <string name="tb_details">Burger Details</string>
+    <string name="description">deskripsi</string>
+    <string name="profile">Rahmat Pratama Aji</string>
+    <string name="phoneNumber">+62 896-4357-1509</string>
+    <string name="myEmail">ajirahmat17@gmail.com</string>
+
+</resources>
